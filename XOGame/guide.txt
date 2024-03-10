@@ -1,0 +1,8 @@
+<script src="https://kit.fontawesome.com/e2f0f61eff.js" crossorigin="anonymous"></script>
+linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+
+background-image: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+<i class="fa-solid fa-rotate-right"></i>
+
+<i class="fa-regular fa-circle"></i>
+<i class="fa-solid fa-x"></i>
